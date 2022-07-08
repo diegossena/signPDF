@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\oversee\\signPdf\\SignPdf.csproj": {}
+  },
+  "projects": {
+    "C:\\oversee\\signPdf\\SignPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\oversee\\signPdf\\SignPdf.csproj",
+        "projectName": "SignPdf",
+        "projectPath": "C:\\oversee\\signPdf\\SignPdf.csproj",
+        "packagesPath": "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\",
+        "outputPath": "C:\\oversee\\signPdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego.WIN-ORSG2IMDBS1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.5"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net4.5",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net4.5",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.1.15, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

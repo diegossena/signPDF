@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyRsYRVLDbQCMhsanVNZPGQRmVhAlX/LbjqAvITzS3fnX8SmQr+Tb5H9f67B+xiqOuEiqcRtmaxVpQFrig/u/A==",
+  "success": true,
+  "projectFilePath": "C:\\oversee\\signPdf\\SignPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\common.logging.core\\3.4.1\\common.logging.core.3.4.1.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\itext7\\7.1.15\\itext7.7.1.15.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.0\\microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512",
+    "C:\\Users\\diego.WIN-ORSG2IMDBS1\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}

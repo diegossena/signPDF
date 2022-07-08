@@ -1,0 +1,12 @@
+C:\oversee\signPdf\bin\Debug\net5.0\SignPdf.deps.json
+C:\oversee\signPdf\bin\Debug\net5.0\SignPdf.dll
+C:\oversee\signPdf\bin\Debug\net5.0\ref\SignPdf.dll
+C:\oversee\signPdf\bin\Debug\net5.0\SignPdf.pdb
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.csproj.AssemblyReference.cache
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.AssemblyInfoInputs.cache
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.AssemblyInfo.cs
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.csproj.CoreCompileInputs.cache
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.dll
+C:\oversee\signPdf\obj\Debug\net5.0\ref\SignPdf.dll
+C:\oversee\signPdf\obj\Debug\net5.0\SignPdf.pdb
